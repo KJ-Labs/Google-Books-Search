@@ -1,29 +1,59 @@
-# Create React Express App
 
-## About This Boilerplate
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
+![Git](background.PNG)  
+# Google-Books-Search
 
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
+![Badge1](https://img.shields.io/badge/License-MIT-Blue)
 
-## Starting the app locally
 
-Start by installing front and backend dependencies. While in this directory, run the following command:
+## Description 
+The purpose of this project was to allow users to search for books, view the information and then save their favorite book. 
 
-```
-npm install
-```
+## Project Demonstration
+![Git](readmevideo.gif)  
 
-This should install node modules within the server and the client folder.
 
-After both installations complete, run the following command in your terminal:
+## Table of contents
 
-```
-npm start
-```
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
+- [Repository Link](#repository)
 
-Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
 
-## Deployment (Heroku)
 
-To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
+## Installation
+
+        N/A
+
+## Usage
+
+        Please navigate to the Heroku Link > https://google-books-kj.herokuapp.com/
+
+## License
+MIT 
+
+
+ 
+
+## Contributing
+
+The owner of this project is KJ-Labs, you're welcome to contribute.
+
+
+## Questions
+
+- If you have any questions, please contact me on Github.
+- [KJ-Labs](https://github.com/KJ-Labs)
+
+## Repository
+
+- [Project Repo](https://github.com/KJ-Labs/Google-Books-Search)
+
+## Screenshots
+![Git](screenshot.PNG)  
+
+
