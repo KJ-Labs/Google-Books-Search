@@ -7,7 +7,7 @@
 
 
 ## Description 
-The purpose of this project was to allow users to search for books, view the information and then save their favorite book. 
+The purpose of this project was to allow users to search for books, view the information and then save their favorite books. 
 
 ## Project Demonstration
 ![Git](readmevideo.gif)  
