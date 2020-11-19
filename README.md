@@ -31,7 +31,7 @@ The purpose of this project was to allow users to search for books, view the inf
 
 ## Usage
 
-        Please navigate to the Heroku Link > https://google-books-kj.herokuapp.com/
+        Please navigate to the Heroku Link > ![Heroku Link](https://google-books-kj.herokuapp.com/)
 
 ## License
 MIT 
