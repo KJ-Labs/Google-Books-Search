@@ -54,6 +54,6 @@ The owner of this project is KJ-Labs, you're welcome to contribute.
 - [Project Repo](https://github.com/KJ-Labs/Google-Books-Search)
 
 ## Screenshots
-![Git](screenshot.PNG)  
+![Git](screenshot2.PNG)  
 
 
